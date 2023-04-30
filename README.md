@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ana Julia
 - 👀 I’m interested in GameDev and programming
 - 🌱 I’m currently learning C
-- 💞️ I’m not looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ?
 
 <!---
