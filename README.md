@@ -9,11 +9,15 @@
 
 ## Status !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=dracula)](https://github.com/zabelliinha/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/manuletsgo">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=dracula"/>
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=dracula"/>
+</div>
 <div style="display: inline_block"><br>
+
+ ##
  
 <div> 
   <a href = "anajuvieira2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
