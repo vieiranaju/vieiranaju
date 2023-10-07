@@ -1,6 +1,6 @@
 # Olá !
 
-<img src="northern-lights.gif" align="right" width="400"/>
+<img src="mismagius.png" align="right" width="400"/>
 
 
 - 🔭 Aluna de ciência da computação na Universidade Estadual do Norte do Parana - UENP
