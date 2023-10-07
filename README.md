@@ -5,6 +5,7 @@
 
 - 🔭 Aluna de ciência da computação na Universidade Estadual do Norte do Parana - UENP
 - 📚 Estudando C, C# e Banco de Dados
+- 👾 Gosto muito de Desenvolvimento de Jogos
 
 
 ## Status !
@@ -16,6 +17,12 @@
   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs&perline=3" />
+  </a>
+</p>
 
  ##
  
