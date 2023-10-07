@@ -1,11 +1,12 @@
 # Olá !
 
-<img src="mismagius.png" align="right" width="400"/>
+<img src="mismagius.png" align="right" width="100"/>
 
 
 - 🔭 Aluna de ciência da computação na Universidade Estadual do Norte do Parana - UENP
 - 📚 Estudando C, C# e Banco de Dados
 
+## 
 
 ## Status !
 
