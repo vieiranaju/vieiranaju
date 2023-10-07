@@ -1,6 +1,6 @@
 # Olá !
 
-<img src="mismagius.png" align="right" width="100"/>
+<img src="mismagius2.png" align="right" width="100"/>
 
 
 - 🔭 Aluna de ciência da computação na Universidade Estadual do Norte do Parana - UENP
