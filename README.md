@@ -5,7 +5,7 @@
 
 - 🔭 Aluna de ciência da computação na Universidade Estadual do Norte do Parana - UENP
 - 📚 Estudando C, C# e Banco de Dados
-- 👾 Gosto muito de Desenvolvimento de Jogos
+- 👾 Gosto muito de Desenvolvimento de Jogos, Arte e Animações
 
 
 ## Status !
