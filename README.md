@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/manuletsgo">
+  <a href="https://github.com/vieiranaju">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=dracula"/>
   <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=dracula"/>
 </div>
