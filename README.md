@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/vieiranaju">
-    <img height="170" align="top" src="https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=discord_old_blurple"/>
-    <img height="175" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=discord_old_blurple"/>
+    <img height="165" align="top" src="https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=discord_old_blurple"/>
+    <img height="180" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=discord_old_blurple"/>
   </a>
 </div>
 
