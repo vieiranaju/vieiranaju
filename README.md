@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/vieiranaju">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=discord_old_blurple"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=vieiranaju&show_icons=true&theme=discord_old_blurple"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vieiranaju&layout=compact&theme=discord_old_blurple"/>
   </a>
 </div>
