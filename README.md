@@ -1,6 +1,6 @@
 # Olá !
 
-<img src="Hollow-Knight-PNG-Background.png" align="right" width="80"/>
+<img src="Hollow-Knight-PNG-Background.png" align="right" width="100"/>
 
 
 - 🎓 Estudante do 3º ano de Ciência da Computação na Universidade Estadual do Norte do Paraná – UENP  
