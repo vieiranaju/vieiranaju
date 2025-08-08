@@ -3,9 +3,10 @@
 <img src="mismagius2.png" align="right" width="100"/>
 
 
-- 🔭 Aluna de ciência da computação na Universidade Estadual do Norte do Parana - UENP
-- 📚 Estudando C, C# e Banco de Dados
-- 👾 Gosto muito de Desenvolvimento de Jogos, Arte e Animações
+- 🎓 Estudante do 3º ano de Ciência da Computação na Universidade Estadual do Norte do Paraná – UENP  
+- 💻 Conhecimentos em Python, C# e Java 
+- 📊 Interesse em Análise de Dados e Segurança da Informação  
+- 🎨 Experiência com ferramentas como Unity, Blender e Aseprite 
 
 ##
 
