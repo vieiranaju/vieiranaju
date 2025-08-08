@@ -42,3 +42,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23E4E2E2&vCenter=true&lines=Obrigada+por+visitar+meu+perfil+!" />
   </p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vieiranaju/vieiranaju/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vieiranaju/vieiranaju/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vieiranaju/vieiranaju/output/pacman-contribution-graph.svg">
+</picture>
+
