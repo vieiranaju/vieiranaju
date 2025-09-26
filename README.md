@@ -5,7 +5,7 @@
 
 - 🎓 Estudante do 3º ano de Ciência da Computação na Universidade Estadual do Norte do Paraná – UENP  
 - 💻 Conhecimentos em Python, C# e Java 
-- 📊 Interesse em Análise de Dados e Segurança da Informação  
+- 📊 Interesse em Análise de Dados e Desenvolvimento de Jogos
 - 🎨 Experiência com ferramentas como Unity, Blender e Aseprite 
 
 ##
