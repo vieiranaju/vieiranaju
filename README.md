@@ -3,7 +3,7 @@
 <img src="Hollow-Knight-PNG-Background.png" align="right" width="100"/>
 
 
-- 🎓 Estudante do 3º ano de Ciência da Computação na Universidade Estadual do Norte do Paraná – UENP  
+- 🎓 Estudante do 4º ano de Ciência da Computação na Universidade Estadual do Norte do Paraná – UENP  
 - 💻 Conhecimentos em Python, C# e Java 
 - 📊 Interesse em Análise de Dados e Desenvolvimento de Jogos
 - 🎨 Experiência com ferramentas como Unity, Blender e Aseprite 
