@@ -14,8 +14,8 @@
   <a href="https://github.com/vieiranaju">
     <img src="https://github-readme-stats-tau-lake-42.vercel.app/api?username=vieiranaju&show_icons=true&theme=discord_old_blurple" alt="vieiranaju's GitHub stats" />
   </a>
-  <a href="https://github.com/gabrielwitor">
-    <img src="https://github-readme-stats-tau-lake-42.vercel.app/api/top-langs/?username=gabrielwitor&theme=discord_old_blurple&layout=compact" alt="Top Langs" />
+  <a href="https://github.com/vieiranaju">
+    <img src="https://github-readme-stats-tau-lake-42.vercel.app/api/top-langs/?username=vieiranaju&theme=discord_old_blurple&layout=compact" alt="Top Langs" />
   </a>
 </p>
 
