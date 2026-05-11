@@ -8,19 +8,6 @@
 - 📊 Interesse em Análise de Dados e Desenvolvimento de Jogos
 - 🎨 Experiência com ferramentas como Unity, Blender e Aseprite 
 
-##
-
-<p align="center">
-  <a href="https://github.com/vieiranaju">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vieiranaju)](https://github.com/vieiranaju/github-readme-stats)
-  </a>
-  <a href="https://github.com/vieiranaju">
-    <img src="https://github-readme-stats-tau-lake-42.vercel.app/api/top-langs/?username=vieiranaju&theme=discord_old_blurple&layout=compact" alt="Top Langs" />
-  </a>
-</p>
-
-##
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,python,java,unity,godot" />
