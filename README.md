@@ -6,7 +6,7 @@
 - 🎓 Estudante do 4º ano de Ciência da Computação na Universidade Estadual do Norte do Paraná – UENP  
 - 💻 Conhecimentos em Python, C# e Java 
 - 📊 Interesse em Análise de Dados e Desenvolvimento de Jogos
-- 🎨 Experiência com ferramentas como Unity, Blender e Aseprite 
+- 🎨 Experiência com ferramentas como Unity, Godot, Blender e Aseprite 
 
 <p align="center">
   <a href="https://skillicons.dev">
